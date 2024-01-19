@@ -30,7 +30,7 @@ body{
 
 .logopic{
     width:300px;
-    background:lightblue;
+    /* background:lightblue; */
     /* 居中显示 */
     display:block;
     margin-top:0%;
